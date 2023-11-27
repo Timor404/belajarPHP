@@ -8,6 +8,7 @@
 <body>
     berhasil push 
     kata kata terakhir
-    
+    git config --global user.email "trisnaammor@gmail.com"
+  git config --global user.name "Timor404"
 </body>
 </html>
